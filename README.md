@@ -1,6 +1,6 @@
-# Task 5: Student Course Registration System
+## Student Course Registration System
 
-A console-based Java application built for **Task 5** of a Java Programming Internship. It manages a course catalog, student records, slot availability, course enrollment, and course removal through an interactive command-line menu.
+A console-based Java application built. It manages a course catalog, student records, slot availability, course enrollment, and course removal through an interactive command-line menu.
 
 ## Project Overview
 
